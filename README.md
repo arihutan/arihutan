@@ -1,6 +1,8 @@
 ![logo](https://github.com/arihutan/arihutan/blob/61d0f830313ff14cf1645c1ce2fb2836f50f202d/Sampul1.png)
-## Hi there 👋 
+[![GitHub](https://img.shields.io/badge/GitHub-arihutan-darkgrey?style=flat&logo=github&logoColor=white)](https://github.com/arihutan/)   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/asyari_sanggo/)   [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Rahmat-Asyari)  [![gem](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahmat-asy-ari-21b59a1bb/)   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/rahmatasyari06) [![Line](https://img.shields.io/badge/Line-00C300?style=flat&logo=line&logoColor=white)](https://line.me/ti/p/QE4BR8qf53)
 
+
+## Hi there 👋 
 I'm a undergraduate student at Forest Management Department, IPB University.
 And senior researcher at The IPB SSRS Association (Student Researcher Organization at IPB University).
 
@@ -20,5 +22,4 @@ And senior researcher at The IPB SSRS Association (Student Researcher Organizati
 * Rahmawati AD, Asy’Ari R, Fathonah MA, Priyanto, Zamani NP, Pramulya R, Setiawan Y. (2022). Vegetation-Water-Built Up Index Combined: Algorithm Indices Combination for Characterization and distribution of Mangrove Forest through Google Earth Engine : The spatial characteristics of Jakarta’s urban mangroves. _CELEBES Agricultural._ 3(1): 20–42. https://doi.org/10.52045/jca.v3i1.298
 * Asy'Ari R, Ranti A, Rahmawati AD, Zulfajrin M, Nurazizah LL, Putra MC, Khairunnisa ZN, Prameswari FA, Pramulya R, Zamani NP, Setiawan Y. 2023. High Heterogeneity LULC Classification in Ujung Kulon National Park, Indonesia: A Study Testing 11 Indices, Random Forest, Sentinel-2 MSI, and GEE-based Cloud Computing. _Celebes Agricultural._ 3(2): 82-99. https://doi.org/10.52045/jca.v3i2.381
 
-[![GitHub](https://img.shields.io/badge/GitHub-arihutan-darkgrey?style=flat&logo=github&logoColor=white)](https://github.com/arihutan/)   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/asyari_sanggo/)   [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Rahmat-Asyari)  [![gem](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahmat-asy-ari-21b59a1bb/)   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/rahmatasyari06) [![Line](https://img.shields.io/badge/Line-00C300?style=flat&logo=line&logoColor=white)](https://line.me/ti/p/QE4BR8qf53)
 
